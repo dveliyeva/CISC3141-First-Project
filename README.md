@@ -1,4 +1,4 @@
-# CISC3141-First-Project
+# CISC3141_FirstProject
 Project #1 - CISC 3141 (Fall 2021) 
 
 1. **Project Proposal/Project Statement:** 
